@@ -316,4 +316,4 @@ The avoidance strategies are as follows:
 
 ### Nebulous Ideas 
 
-With more time, we would have further explored the genetic algorithm option and implemented our heuristic lookup, `aviodance_lookup()`. The lookup checked if the ship had every seen other ships in the exact position they are currently in then assumes that they will make the same move. It didn't make it into production because it failed to account for context.
+With more time, we would have further explored the genetic algorithm option and implemented our heuristic lookup, `avoidance_lookup()`. The lookup checked if the ship had every seen other ships in the exact position they are currently in then assumes that they will make the same move. It didn't make it into production because it failed to account for context.
